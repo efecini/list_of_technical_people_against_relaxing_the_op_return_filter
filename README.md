@@ -4,7 +4,7 @@ I am making this list because I talked to 3 different people recently who plan t
 
 By "technical people" I mean people who write or review code for protocols and apps that are (1) bitcoin itself (2) "on" bitcoin (e.g. wallets) (3) bitcoin adjacent (e.g. Liquid)
 
-| Name | Notable for | Social media | Github | Count |
+| Name | Notable for | Social media | Github or similar | Count |
 | :------- | :-------: | :------: | :-------: | -------: |
 | Luke Dashjr | contributor to bitcoin core and maintainer of bitcoin knots | https://x.com/LukeDashjr | https://github.com/luke-jr | 1 |
 | Larry Ruane | contributor to bitcoin core | https://x.com/larryruane | https://github.com/bitcoin/bitcoin/commits?author=larryruane | 2 |
